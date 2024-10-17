@@ -1,0 +1,11 @@
+{
+        "description": {
+                "moniker": "Bflux",
+                "identity": "",
+                "website": "https://bflux.xyz",
+                "security_contact": "support@bflux.xyz",
+                "details": "Stake Bitcoin & Customize Your Yield"
+        },
+        "eots_pk":"f8d6859fc0b14f387830700db354cd365167c1a5652427ce3ce2f3c69dec4dfb",
+        "commission": "0.05"
+}
